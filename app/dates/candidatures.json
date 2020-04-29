@@ -1,0 +1,101 @@
+{
+  "candidatures": [
+      {
+      "idCandidature": 5,
+      "idCandidate": 2,
+      "dataPresentacion": "20200330",
+      "horaPresentacion": "002100",
+      "name": "Breogan",
+      "surname": "Piñeiro",
+      "surname2": "Gandara",
+      "dni": "64458849S",
+      "birthDate": "20001231",
+      "telf": "612987654",
+      "email": "xanbonpax@ddxx.es",
+      "primaryAddress": {
+        "streetName": "R/Rúa Ribeiriña",
+        "number": "203",
+        "flat": "5",
+        "door": "",
+        "locality": "A Coruña",
+        "city": "A Coruña",
+        "municipality": "A Coruña",
+        "state": "A Coruña",
+        "postcode": 15101,
+        "country": "es"
+      },
+      "titulacionPracticas": {
+        "name": "Técnico Superior Desenvolvemento Aplicacións",
+        "organization": "IES Fernando Wirtz Suárez - Consellería",
+        "telf": "881960260",
+        "address": {
+          "streetName": "R/Rua Caballeros",
+          "number": "1",
+          "flat": "",
+          "door": "",
+          "locality": "A Coruña",
+          "city": "A Coruña",
+          "municipality": "A Coruña",
+          "state": "A Coruña",
+          "postcode": 15006,
+          "country": "es"
+        }
+      }
+    },
+    {
+      "idCandidature": 1,
+      "idCandidate": 1,
+      "dataPresentacion": "20200329",
+      "horaPresentacion": "232059",
+      "name": "Xan",
+      "surname": "Bon",
+      "surname2": "Pax",
+      "dni": "65751683L",
+      "birthDate": "20001231",
+      "telf": "612987654",
+      "email": "xanbonpax@ddxx.es",
+      "primaryAddress": {
+        "streetName": "R/Rúa Inventada1",
+        "number": "23",
+        "flat": "2",
+        "door": "D",
+        "locality": "A Coruña",
+        "city": "A Coruña",
+        "municipality": "A Coruña",
+        "state": "A Coruña",
+        "postcode": 15101,
+        "country": "es"
+      },
+      "otherAddress": [{
+        "order": 1,
+        "streetName": "C/Da Peña",
+        "number": "S/N",
+        "flat": "Baixa",
+        "door": "",
+        "locality": "A Coruña",
+        "city": "A Coruña",
+        "municipality": "A Coruña",
+        "state": "A Coruña",
+        "postcode": 15001,
+        "country": "es"
+      }],
+      "titulacionPracticas": {
+        "name": "Grao en Económicas",
+        "organization": "Universidade De A Coruña",
+        "telf": "+34981167000",
+        "address": {
+          "streetName": "R/Rua da Maestranza",
+          "number": "9",
+          "flat": "",
+          "door": "",
+          "locality": "A Coruña",
+          "city": "A Coruña",
+          "municipality": "A Coruña",
+          "state": "A Coruña",
+          "postcode": 15001,
+          "country": "es"
+        }
+      }
+    }
+  ]
+}

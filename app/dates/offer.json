@@ -1,0 +1,101 @@
+{
+  "internshipOffer": [{
+      "idInternshipOffer": 20,
+      "idCompany": 5,
+      "dataPresentacion": "20200325",
+      "horaPresentacion": "122159",
+      "companyData": {
+        "company": "Tecnoloxías PunteiraX SL",
+        "CIF": "Y6238362V",
+        "telf": "+34622987654",
+        "email": "rrhh@tecnoloxiaspunteirax.es",
+        "web": "www.tecnoloxiaspunteirax.es",
+        "primaryAddress": {
+          "streetName": "R/Castro Outeiro",
+          "number": "23",
+          "flat": "",
+          "door": "",
+          "locality": "A Coruña",
+          "city": "A Coruña",
+          "municipality": "A Coruña",
+          "state": "A Coruña",
+          "postcode": 15190,
+          "country": "es"
+        }
+      },
+      "requestPrimaryTitulation": {
+        "name": "Técnico Superior Desenvolvemento Aplicacións"
+      },
+      "otherTitulations": [{
+        "name": "Técnico Superior Administración Sistemas en Rede "
+      }, {
+        "name": "Técnico Superior Sistemas Microinformaticos"
+      }],
+      "startDate": "20200502",
+      "endDate": "20200730",
+      "internshipLocation": {
+        "streetName": "R/Rúa Inventada1",
+        "number": "23",
+        "flat": "2",
+        "door": "D",
+        "locality": "A Coruña",
+        "city": "A Coruña",
+        "municipality": "A Coruña",
+        "state": "A Coruña",
+        "postcode": 15101,
+        "country": "es"
+      },
+      "numberPositionsOffered": 3
+    },
+    {
+      "idInternshipOffer": 10,
+      "idCompany": 3,
+      "dataPresentacion": "20200320",
+      "horaPresentacion": "122100",
+      "companyData": {
+        "company": "Auditoria Neboa SLU",
+        "CIF": "Z9516411M",
+        "telf": "+34912987654",
+        "email": "persoal@solucionssoftware.es",
+        "web": "www.solucionssoftware.es",
+        "primaryAddress": {
+          "streetName": "Praza Independencia",
+          "number": "2 bis",
+          "flat": "entrechan",
+          "door": "5",
+          "locality": "A Coruña",
+          "city": "A Coruña",
+          "municipality": "A Coruña",
+          "state": "A Coruña",
+          "postcode": 15008,
+          "country": "es"
+        }
+      },
+      "requestPrimaryTitulation": {
+        "name": "Grao en Economía"
+      },
+      "otherTitulations": [{
+          "name": "Grado en Administración y Dirección de Empresas "
+        },
+        {
+          "name": "Grado en Ciencias Empresariales"
+        }
+      ],
+      "startDate": "20200504",
+      "endDate": "20200730",
+      "internshipLocation": {
+        "streetName": "Praza Independencia",
+        "number": "2 bis",
+        "flat": "entrechan",
+        "door": "5",
+        "locality": "A Coruña",
+        "city": "A Coruña",
+        "municipality": "A Coruña",
+        "state": "A Coruña",
+        "postcode": 15008,
+        "country": "es"
+      },
+      "numberPositionsOffered": 1
+    }
+  ]
+}
